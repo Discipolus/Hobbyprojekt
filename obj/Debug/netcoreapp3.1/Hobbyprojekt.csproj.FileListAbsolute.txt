@@ -34,3 +34,4 @@ C:\Users\Vincent\Documents\Visual Studio 2019\Projects\Hobbyprojekt\obj\Debug\ne
 C:\Users\Vincent\Documents\Visual Studio 2019\Projects\Hobbyprojekt\obj\Debug\netcoreapp3.1\Hobbyprojekt.dll
 C:\Users\Vincent\Documents\Visual Studio 2019\Projects\Hobbyprojekt\obj\Debug\netcoreapp3.1\Hobbyprojekt.pdb
 C:\Users\Vincent\Documents\Visual Studio 2019\Projects\Hobbyprojekt\obj\Debug\netcoreapp3.1\Hobbyprojekt.genruntimeconfig.cache
+C:\Users\Vincent\Documents\Visual Studio 2019\Projects\Hobbyprojekt\bin\Debug\netcoreapp3.1\Content\ball.xnb
